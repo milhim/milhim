@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working at Maids.cc<br>🌱 I’m currently learning Spring Boot <br>💬 Ask me about IT, Problem Solving, System Architecture, Design Pttern<br>⚡ Fun fact
+🔭 I’m currently working at Maids.cc<br>🌱 I’m currently learning Spring Boot <br>💬 Ask me about IT, Problem Solving, System Architecture, Design Pttern<br>
 
 
 ## 🌐 Socials:
